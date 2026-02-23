@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: My 90-day "DevOps Zero to Hero" challenge and making a industry ready project.<br>👯 I’m looking to collaborate on: Open-source DevOps tooling and Cloud-native projects.<br>🤝 I’m looking for help with: Advanced Kubernetes orchestration and Terraform best practices.<br>🌱 I’m currently learning: K8S advanced concepts, AgentickAI, and deepening my AWS architecture knowledge.<br>💬 Ask me about: Linux hardening, Docker containerization, or being an NCC cadet.<br>⚡ Currently working as a DevOps Engineer Intern at @Codenixia
+🔭 I’m currently working on: My 90-day "DevOps Zero to Hero" challenge and making an industry ready project.<br>👯 I’m looking to collaborate on: Open-source DevOps tooling and Cloud-native projects.<br>🤝 I’m looking for help with: Advanced Kubernetes orchestration and Terraform best practices.<br>🌱 I’m currently learning: K8S advanced concepts, AgentickAI, and deepening my AWS architecture knowledge.<br>💬 Ask me about: Linux hardening, Docker containerization, or being an NCC cadet.<br>⚡ Currently working as a DevOps Engineer Intern at @Codenixia
 
 
 ## 🌐 Socials:
