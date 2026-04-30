@@ -1,6 +1,17 @@
 # 💫 About Me:
-🔭 I’m currently working on: My 90-day "DevOps Zero to Hero" challenge and making an industry ready project.<br>👯 I’m looking to collaborate on: Open-source DevOps tooling and Cloud-native projects.<br>🤝 I’m looking for help with: Advanced Kubernetes orchestration and Terraform best practices.<br>🌱 I’m currently learning: K8S advanced concepts, AgentickAI, and deepening my AWS architecture knowledge.<br>💬 Ask me about: Linux hardening, Docker containerization, or being an NCC cadet.<br>⚡ Currently working as a DevOps Engineer Intern at @Codenixia
+I'm Kanhaiya Tiwari, a final-year B.Tech CSE student at AKS University (2026) and DevOps Engineer Intern at Codenixia, Pune. RHCSA certified. AWS Solutions Architect trained. 7 months of hands-on cloud infrastructure experience — building real pipelines, not just studying them.
+What I work with:
+AWS (EC2, S3, IAM, EKS, VPC) · Docker · Kubernetes · Terraform · GitHub Actions · Prometheus · Grafana · Ansible · Bash · Python · Semgrep · Trivy · Checkov
+What I've built:
 
+3-tier AWS infrastructure with Terraform, autoscaling, and OIDC-gated CI/CD
+Reusable DevSecOps GitHub Actions pipeline covering SAST, container, and dependency scanning
+Kubernetes-native deployments with rolling updates, self-healing pods, and real-time monitoring
+AI-powered microservices platforms targeting real-world users — farmers, students, self-learners
+
+Results that matter:
+66% faster deployments · 85% faster cluster setup · 99% uptime · 60% faster incident response
+Currently deepening GitOps with ArgoCD, Helm chart authoring, and SRE observability patterns.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/pBCMSbBu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/knhapndt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kanhaiya-tiwari-46685422a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kt230088@gmail.com) 
