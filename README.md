@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm Kanhaiya Tiwari, a recently Graduate B.Tech CSE student at AKS University (2026) and DevOps Engineer Intern at Codenixia, Pune. RHCSA certified. AWS Solutions Architect trained. 7 months of hands-on cloud infrastructure experience — building real pipelines, not just studying them.
 What I work with:
-AWS (EC2, S3, IAM, EKS, VPC) · Docker · Kubernetes · Terraform · GitHub Actions · Prometheus · Grafana · Ansible · Bash · Python · Semgrep · Trivy · Checkov
+AWS (EC2, S3, IAM, EKS, VPC) · Docker · Kubernetes · Terraform · GitHub Actions · Prometheus · Grafana · Ansible · Bash · Python · · Trivy ·
 What I've built:
 
 3-tier AWS infrastructure with Terraform, autoscaling, and OIDC-gated CI/CD
