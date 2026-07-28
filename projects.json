@@ -1,45 +1,31 @@
 [
   {
-    "name": "LeadUnity",
-    "repo": "arifhaxn/lead_unity",
-    "logo": "logo.png",
-    "description": "Leading University's defense setup",
-    "tags": ["Flutter", "Dart", "NextJS"]
+    "name": "CloudKart",
+    "repo": "Kanhaiya-Tiwari/cloudkart",
+    "logo": "",
+    "description": "Cloud-Native E-Commerce Platform on AWS EKS with zero-downtime deployments",
+    "tags": ["AWS", "Terraform", "Kubernetes", "DevSecOps"]
   },
   {
-    "name": "OnePick",
-    "repo": "arifhaxn/one_pick",
-    "logo": "op.png",
-    "description": "An One Piece trivia app to find your character",
-    "tags": ["Flutter", "Dart"]
+    "name": "DevTrackr",
+    "repo": "Kanhaiya-Tiwari/devtrackr",
+    "logo": "",
+    "description": "AI-Powered DevSecOps Platform with Llama3 and ArgoCD GitOps",
+    "tags": ["React", "FastAPI", "k3s", "GitHub Actions"]
   },
   {
-    "name": "Chessy",
-    "repo": "arifhaxn/chessy",
-    "logo": "chess.png",
-    "description": "Chess timer app for all types of variations",
-    "tags": ["Flutter", "Dart"]
+    "name": "Smart Rural Operations Agent",
+    "repo": "Kanhaiya-Tiwari/smart-rural-agent",
+    "logo": "",
+    "description": "Agentic AI Platform with Hindi chatbot and crop disease detection",
+    "tags": ["Python", "FastAPI", "Docker", "Kubernetes"]
   },
   {
-    "name": "Claster",
-    "repo": "arifhaxn/Claster",
-    "logo": "claster.png",
-    "description": "A class scheduling app for teachers which is used to track routines",
-    "tags": ["Flutter", "Dart", "Firebase"]
-  },
-  {
-    "name": "OneTELE",
-    "repo": "arifhaxn/OneTELE---Liilab-Teleprompter",
-    "logo": "onetele.png",
-    "description": "A custom teleprompter for liilab's recording studio",
-    "tags": ["Flutter", "Dart"]
-  },
-  {
-    "name": "Career Logic AI",
-    "repo": "arifhaxn/CareerLogic-AI",
-    "logo": "cl.png",
-    "description": "An AI Powered CV management and assesment system for aspiring career builders",
-    "tags": ["Flutter", "Dart", "Groq"]
+    "name": "GitHub Actions Masterclass",
+    "repo": "Kanhaiya-Tiwari/github-actions-masterclass",
+    "logo": "",
+    "description": "10+ reusable CI/CD workflow patterns with OIDC and Helm",
+    "tags": ["GitHub Actions", "Kubernetes", "Helm", "CI/CD"]
   }
 ]
 
