@@ -79,31 +79,7 @@
 
 ---
 
-### `$ ./run_stats.sh`
 
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Kanhaiya-Tiwari&theme=dark&hide_border=true&background=0A101F&stroke=00FF9D&ring=7C3AED&fire=00E5FF&currStreakLabel=00FF9D" alt="streak stats">
-</p>
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kanhaiya-Tiwari&show_icons=true&theme=transparent&hide_border=true&bg_color=0A101F&title_color=00FF9D&icon_color=7C3AED&text_color=E5E7EB&hide_rank=true" alt="stats">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanhaiya-Tiwari&layout=compact&theme=transparent&hide_border=true&bg_color=0A101F&title_color=00FF9D&text_color=E5E7EB" alt="top langs">
-</p>
-
-> `hide_rank=true` is intentional — the rank badge is star-weighted, which mostly rewards old, popular repos and undersells a newer account. Once self-hosted, swap `github-readme-stats.vercel.app` for your own Vercel URL to dodge public rate limits.
-
----
-
-### `$ git log --graph --oneline`
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kanhaiya-Tiwari/Kanhaiya-Tiwari/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kanhaiya-Tiwari/Kanhaiya-Tiwari/output/github-contribution-grid-snake.svg">
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/Kanhaiya-Tiwari/Kanhaiya-Tiwari/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
 
 ### `$ ls -la featured_projects/`
 
