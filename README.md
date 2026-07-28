@@ -68,21 +68,6 @@ DevOps Engineer and B.Tech CSE graduate with 6 months of hands-on internship exp
 <img src="https://img.shields.io/badge/Linux-0A101F?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
 </p>
 
----
-
-
-### Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kanhaiya-Tiwari/Kanhaiya-Tiwari/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kanhaiya-Tiwari/Kanhaiya-Tiwari/output/github-contribution-grid-snake.svg">
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/Kanhaiya-Tiwari/Kanhaiya-Tiwari/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
 ### Featured Projects
 
 **[CloudKart](https://github.com/Kanhaiya-Tiwari) — Cloud-Native E-Commerce Platform**
