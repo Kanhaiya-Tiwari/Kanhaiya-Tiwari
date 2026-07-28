@@ -144,6 +144,14 @@
 </a>
 &nbsp;&nbsp;
 </div>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9D,50:0F2027,100:0A101F&height=120&section=footer" width="100%"/>
+
+<i>Last updated automatically via the contribution snake workflow.</i>
+
+</div>
+
 
 <!-- ===== END SOCIAL BADGES ===== -->
 
