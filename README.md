@@ -70,19 +70,6 @@ DevOps Engineer and B.Tech CSE graduate with 6 months of hands-on internship exp
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Kanhaiya-Tiwari&theme=dark&hide_border=true&background=0A101F&stroke=22D3EE&ring=7C3AED&fire=10B981&currStreakLabel=22D3EE" alt="streak stats">
-</p>
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kanhaiya-Tiwari&show_icons=true&theme=transparent&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=7C3AED&text_color=E5E7EB&hide_rank=true" alt="stats">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanhaiya-Tiwari&layout=compact&theme=transparent&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=E5E7EB" alt="top langs">
-</p>
-
-> `hide_rank=true` is intentional — the rank badge is star-weighted, which mostly rewards old, popular repos and undersells a newer account. Once you self-host (steps below), swap `github-readme-stats.vercel.app` for your own Vercel URL to avoid the public instance's rate limits.
-
----
 
 ### Contribution Snake
 
