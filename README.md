@@ -31,7 +31,6 @@
 > DevOps Engineer · B.Tech CSE (AKS University, 2022–2026)
 > 6 months hands-on internship @ Codenixia, Pune — production-grade cloud-native systems
 > Stack: Terraform → AWS → EKS → Jenkins/GitHub Actions → ArgoCD (GitOps)
-> DevSecOps built-in: SonarQube · Trivy · TruffleHog · Semgrep — security gates on every PR
 > Flagship: CloudKart — zero-downtime rollouts + OpenTelemetry tracing on EKS
 > Currently hardening: CI/CD pipelines + observability stacks
 ```
