@@ -10,8 +10,6 @@
 
 <div align="center">
 
-<!-- 40,000-dot halftone portrait — animated neon flicker, generated from photo -->
-<img src="assets/dot-portrait.svg" width="300" alt="Kanhaiya Tiwari — dot matrix portrait"/>
 
 </div>
 
