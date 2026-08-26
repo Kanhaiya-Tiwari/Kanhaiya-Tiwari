@@ -30,6 +30,7 @@
 ```bash
 > DevOps Engineer · B.Tech CSE (AKS University, 2022–2026)
 > 6 months hands-on internship @ Codenixia, Pune — production-grade cloud-native systems
+> Software Engineer at Dsqure Tech. pvt ltd New delhi
 > Stack: Terraform → AWS → EKS → Jenkins/GitHub Actions → ArgoCD (GitOps)
 > Flagship: CloudKart — zero-downtime rollouts + OpenTelemetry tracing on EKS
 > Currently hardening: CI/CD pipelines + observability stacks
